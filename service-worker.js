@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yijunenglishsongs/precache-manifest.f8388e40918305c1fec1a0f69fd5e073.js"
+  "/yijunenglishsongs/precache-manifest.409f776eded52b3f41352797a4f49491.js"
 );
 
 self.addEventListener('message', (event) => {

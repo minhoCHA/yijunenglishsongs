@@ -1,29 +1,30 @@
 {
   "files": {
     "main.css": "/yijunenglishsongs/static/css/main.69eda509.chunk.css",
-    "main.js": "/yijunenglishsongs/static/js/main.f2dc5c73.chunk.js",
-    "main.js.map": "/yijunenglishsongs/static/js/main.f2dc5c73.chunk.js.map",
-    "runtime-main.js": "/yijunenglishsongs/static/js/runtime-main.a22f331a.js",
-    "runtime-main.js.map": "/yijunenglishsongs/static/js/runtime-main.a22f331a.js.map",
-    "static/js/2.c5ee25ae.chunk.js": "/yijunenglishsongs/static/js/2.c5ee25ae.chunk.js",
-    "static/js/2.c5ee25ae.chunk.js.map": "/yijunenglishsongs/static/js/2.c5ee25ae.chunk.js.map",
-    "static/js/3.cd576e48.chunk.js": "/yijunenglishsongs/static/js/3.cd576e48.chunk.js",
-    "static/js/3.cd576e48.chunk.js.map": "/yijunenglishsongs/static/js/3.cd576e48.chunk.js.map",
+    "main.js": "/yijunenglishsongs/static/js/main.3a86057b.chunk.js",
+    "main.js.map": "/yijunenglishsongs/static/js/main.3a86057b.chunk.js.map",
+    "runtime-main.js": "/yijunenglishsongs/static/js/runtime-main.089a7e39.js",
+    "runtime-main.js.map": "/yijunenglishsongs/static/js/runtime-main.089a7e39.js.map",
+    "static/js/2.20403612.chunk.js": "/yijunenglishsongs/static/js/2.20403612.chunk.js",
+    "static/js/2.20403612.chunk.js.map": "/yijunenglishsongs/static/js/2.20403612.chunk.js.map",
+    "static/js/3.e4aeb301.chunk.js": "/yijunenglishsongs/static/js/3.e4aeb301.chunk.js",
+    "static/js/3.e4aeb301.chunk.js.map": "/yijunenglishsongs/static/js/3.e4aeb301.chunk.js.map",
     "index.html": "/yijunenglishsongs/index.html",
-    "precache-manifest.f8388e40918305c1fec1a0f69fd5e073.js": "/yijunenglishsongs/precache-manifest.f8388e40918305c1fec1a0f69fd5e073.js",
+    "precache-manifest.409f776eded52b3f41352797a4f49491.js": "/yijunenglishsongs/precache-manifest.409f776eded52b3f41352797a4f49491.js",
     "service-worker.js": "/yijunenglishsongs/service-worker.js",
     "static/css/main.69eda509.chunk.css.map": "/yijunenglishsongs/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.c5ee25ae.chunk.js.LICENSE.txt": "/yijunenglishsongs/static/js/2.c5ee25ae.chunk.js.LICENSE.txt",
+    "static/js/2.20403612.chunk.js.LICENSE.txt": "/yijunenglishsongs/static/js/2.20403612.chunk.js.LICENSE.txt",
+    "static/media/1114.png": "/yijunenglishsongs/static/media/1114.7b8f217b.png",
+    "static/media/12.png": "/yijunenglishsongs/static/media/12.9eac9d16.png",
     "static/media/bg.png": "/yijunenglishsongs/static/media/bg.00a7636b.png",
     "static/media/logo.png": "/yijunenglishsongs/static/media/logo.326800d9.png",
     "static/media/svg-1.svg": "/yijunenglishsongs/static/media/svg-1.55cfb481.svg",
-    "static/media/svg-2.svg": "/yijunenglishsongs/static/media/svg-2.d4846e11.svg",
-    "static/media/svg-3.svg": "/yijunenglishsongs/static/media/svg-3.397c455a.svg"
+    "static/media/svg-2.svg": "/yijunenglishsongs/static/media/svg-2.d4846e11.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a22f331a.js",
-    "static/js/2.c5ee25ae.chunk.js",
+    "static/js/runtime-main.089a7e39.js",
+    "static/js/2.20403612.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.f2dc5c73.chunk.js"
+    "static/js/main.3a86057b.chunk.js"
   ]
 }
